@@ -1,0 +1,35 @@
+body{
+	background: #fff !important;
+	font-family: Poppins !important;
+}
+
+div.content{
+	padding: 30px 50px;
+}
+
+img.logo{
+	width: 50px;
+}
+
+.fa-bars{
+	padding: 12px;
+	border-radius: 15px;
+	background: #f90;
+	color: white;
+}
+
+.goodmorning{
+	font-size: 1rem;
+	font-weight: 300;
+	margin-top: 40px;
+	margin-bottom: 20px;
+}
+
+.module{
+	padding: 15px;
+	background: #FFF;
+	border-radius: 25px;
+	border: 1px solid rgba(0, 0, 0, 0.10);
+	box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.05);
+	margin-bottom: 10px;
+}

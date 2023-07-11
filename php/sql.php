@@ -1,1 +1,1 @@
-<?php $conn = new mysqli('localhost', 'root', '', 'dbv'); ?>
+<?php $conn = new mysqli('thecircle.com.br', 'u868458939_felinos', 'Caquis55#', 'u868458939_felinos'); ?>

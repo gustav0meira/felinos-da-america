@@ -11,7 +11,7 @@
 <!-- general css -->
 <style>
 	body{
-		background: #f90;
+		background: #3FBFF3;
 	}
 	.align{
 		position: relative;

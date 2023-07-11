@@ -4,9 +4,8 @@ body{
 }
 
 img.logo{
-	width: 37%;
-	filter: invert(100%);
-	margin-bottom: 20px;
+	width: 30%;
+	margin-bottom: 26px;
 }
 
 .msg{
@@ -16,7 +15,7 @@ img.logo{
 	width: 80%;
 	margin-bottom: 20px;
 	text-align: center;
-	color: #ffffff80;
+	color: #FFFFFF80;
 }
 
 .alignCenter{
@@ -34,7 +33,7 @@ p.copy{
 	bottom: 10;
 	left: 50%;
 	transform: translateX(-50%);
-	color: white;
+	color: #ffffff30;
 }
 
 label.input{
@@ -43,8 +42,8 @@ label.input{
 	font-size: 0.7rem;
 	font-weight: 300;
 	margin-left: 10px;
-	background: #f90;
-	color: white !important;
+	background: #3FBFF3;
+	color: #ffffff !important;
 	padding: 0px 7px;
 }
 
@@ -52,19 +51,19 @@ input,
 button{
 	border: none;
 	background: transparent;
-	border: 1px solid white;
-	padding: 14px;
+	border: 1px solid #ffffff;
+	padding: 18px;
 	font-family: Poppins !important;
 	font-size: 0.8rem;
 	font-weight: 300 !important;
 	border-radius: 15px;
 	width: 100%;
 	margin-bottom: 10px;
-	color: white;
+	color: #FFFFFF90;
 }
 
 button{
-	background: #fff;
-	border: 1px solid white;
-	color: #f90;
+	background: #ffffff;
+	border: 1px solid #ffffff;
+	color: #3FBFF3;
 }

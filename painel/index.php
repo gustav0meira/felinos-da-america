@@ -18,7 +18,7 @@
 	<div class="content">
 		<div class="row">
 			<div class="col-6">
-				<img class="logo align" src="https://img.freepik.com/icones-gratis/pata_318-530213.jpg?w=2000">
+				<img class="logo align" src="../assets/logo.png">
 			</div>
 			<div style="text-align: right;" class="col-6">
 				<i class="fa-solid fa-bars align"></i>
@@ -26,7 +26,7 @@
 		</div>
 		<div class="row">
 			<div class="col-12">
-				<h1 class="goodmorning">bom dia, <?php echo $_SESSION['nome']; ?> 🌄</h1>
+				<h1 class="goodmorning">Maranata, <?php echo $_SESSION['nome']; ?> 🌄</h1>
 			</div>
 		</div>
 		<div class="row">
